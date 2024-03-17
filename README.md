@@ -14,10 +14,3 @@ TredEco is a start-up company that focuses on recycling collected waste PET-plas
 | :-------- | :------- | :------------------------- |
 | IT20096816 | Weerasinghe H. S. R. A. | [@Heshishivani](https://github.com/Heshishivani) |
 | IT20451912 | Alwis D. C. D. | [@DeeghayuAlwis](https://github.com/DeeghayuAlwis) |
-
-
-
-```
- 
-# MTIT_Y4S2_2024
-TredEco is a start-up company that focuses on recycling collected waste PET-plastic bottles to produce clothes. This application consists of Producer - Consumer scenario using OSGi framework for the Cashier in this clothing store.
