@@ -19,7 +19,7 @@ TredEco is a start-up company that focuses on recycling collected waste PET-plas
 
 **Language:**  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
-**Framework:**  <a href="https://www.osgi.org" target="_blank" rel="noreferrer"> <img src="https://www.osgi.org/images/logo/osgi.png" alt="osgi" width="60" height="40"/> </a>
+**Framework:**  <a href="https://www.osgi.org" target="_blank" rel="noreferrer"> <img src="https://www.osgi.org/images/logo/osgi.png" alt="osgi" width="80" height="40"/> </a>
 
 **Diagram Design:**  <a href="https://www.drawio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/800px-Diagrams.net_Logo.svg.png" alt="draw" width="40" height="40"/> </a>
 
